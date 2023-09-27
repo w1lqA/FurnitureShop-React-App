@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# Furni.shop
+Furni.shop is a modern and elegant React-based e-commerce website template for building your own elegant e-commerce platform for furniture and interior design.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
 
-## Available Scripts
+- [Features](#features)
+- [Components](#components)
+- [Installation and Usage](#installation-and-usage)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Home:** The home page welcomes visitors to furni.shop and introduces them to our mission of creating modern interiors. It highlights our commitment to elegant, luxurious interior design and showcases the expertise of our professional interior designers.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Trusted Companies:** This section proudly displays our trustworthiness by highlighting the number of companies that have put their faith in furni.shop.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Hot Deals:** Explore our online store for exclusive furniture deals delivered directly to you. This section emphasizes our ongoing promotions and special offers.
 
-### `npm test`
+- **About Us:** Learn about furni.shop's core values of service, integrity, and excellence. Discover our dedication to craftsmanship, quality, and innovation.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Products:** Browse our stunning collection of modern furniture, including beds, sofas, chairs, and lights. Each product is presented with a name and price, along with discounted prices where applicable.
 
-### `npm run build`
+- **Testimonials:** Read inspiring success stories from satisfied customers who have transformed their living spaces with furni.shop furniture.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Footer:** The footer contains links to different sections of the website, such as home, about, products, and contacts. It also provides access to resources, pricing information, FAQs, support, and more.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Components
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The furni.shop project is organized into several React components:
 
-### `npm run eject`
+- **Header:** The header component includes the navigation menu, logo, and ensures a responsive design for mobile devices.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Home:** The home component introduces visitors to the furni.shop experience, emphasizing our expertise in interior design.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **TrustedCompanies:** This component showcases the trustworthiness of furni.shop by highlighting the number of companies that rely on us.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **HotDeals:** Explore our exclusive furniture deals in this component, emphasizing our ongoing promotions.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **About:** Learn more about furni.shop's values and commitment to craftsmanship, quality, and innovation.
 
-## Learn More
+- **Products:** Browse our extensive collection of modern furniture in this component, with details on product names and prices.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Testimonials:** Discover success stories from happy customers who have transformed their living spaces with furni.shop furniture.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **Footer:** The footer component provides navigation links, resources, pricing, FAQs, support, and other essential information.
 
-### Code Splitting
+## Installation and Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+To run the furni.shop project locally, follow these steps:
 
-### Analyzing the Bundle Size
+1. Clone the repository: `git clone https://github.com/w1lqA/FurnitureShop-React-App.git`
+2. Navigate to the project directory: `cd FurnitureShop-React-App`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your web browser and visit: `http://localhost:3000`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Feel free to customize the project to meet your specific requirements.
 
-### Making a Progressive Web App
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Contributions to furni.shop are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-### Advanced Configuration
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+For any inquiries or questions, you can reach out to the project developer:
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- My profile: [w1lqA](https://github.com/w1lqA)
+- VK: [VK](https://www.linkedin.com/in/w1lqA)
+- Telegram: [Telegram](https://t.me/w1lqA)
+- Kwork: [Kwork](https://kwork.ru/user/w1lqa)
