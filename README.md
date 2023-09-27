@@ -66,6 +66,7 @@ Contributions to furni.shop are welcome! If you encounter any issues or have sug
 For any inquiries or questions, you can reach out to the project developer:
 
 - My profile: [w1lqA](https://github.com/w1lqA)
-- VK: [VK](https://www.linkedin.com/in/w1lqA)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/w1lqA)
+- VK: [VK](https://vk.com/w1lqa)
 - Telegram: [Telegram](https://t.me/w1lqA)
 - Kwork: [Kwork](https://kwork.ru/user/w1lqa)
