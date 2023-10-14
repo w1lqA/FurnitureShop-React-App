@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FurnitureShop-React-App/static/css/main.ab726702.css",
-    "main.js": "/FurnitureShop-React-App/static/js/main.63adc4a5.js",
+    "main.css": "/FurnitureShop-React-App/static/css/main.9bcb1ebf.css",
+    "main.js": "/FurnitureShop-React-App/static/js/main.252b9824.js",
     "static/media/header-bg.png": "/FurnitureShop-React-App/static/media/header-bg.342aa3124e8751597f99.png",
     "static/media/client.png": "/FurnitureShop-React-App/static/media/client.bcaeb1de603851ab4c8c.png",
     "static/media/about-photo-3.png": "/FurnitureShop-React-App/static/media/about-photo-3.b87aabb8fc9af97e5530.png",
@@ -42,11 +42,11 @@
     "index.html": "/FurnitureShop-React-App/index.html",
     "static/media/arrow-right.svg": "/FurnitureShop-React-App/static/media/arrow-right.fe4aa890b0ace6e4a68557ed130a95fb.svg",
     "static/media/arrow-right-bg.svg": "/FurnitureShop-React-App/static/media/arrow-right-bg.c1495ce119964a62dcad8cd79ed19290.svg",
-    "main.ab726702.css.map": "/FurnitureShop-React-App/static/css/main.ab726702.css.map",
-    "main.63adc4a5.js.map": "/FurnitureShop-React-App/static/js/main.63adc4a5.js.map"
+    "main.9bcb1ebf.css.map": "/FurnitureShop-React-App/static/css/main.9bcb1ebf.css.map",
+    "main.252b9824.js.map": "/FurnitureShop-React-App/static/js/main.252b9824.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab726702.css",
-    "static/js/main.63adc4a5.js"
+    "static/css/main.9bcb1ebf.css",
+    "static/js/main.252b9824.js"
   ]
 }
